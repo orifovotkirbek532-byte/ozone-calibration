@@ -1,0 +1,21 @@
+{
+  "features": [
+    "n1_Temp",
+    "n1_HR",
+    "n1_PM2_5",
+    "n1_VOC",
+    "n1_CH2O",
+    "n1_CO2",
+    "n1_O3",
+    "o3_at_floor",
+    "hour_sin",
+    "hour_cos"
+  ],
+  "sensor_floor": 39.246,
+  "target": "ref_O3",
+  "best_params": {
+    "max_depth": null,
+    "max_features": 0.5,
+    "min_samples_leaf": 20
+  }
+}

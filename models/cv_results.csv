@@ -1,0 +1,5 @@
+,CV MAE,CV MAE std,CV RMSE,CV R2
+Random Forest,11.5,0.95,17.35,0.6
+XGBoost,11.88,1.22,18.21,0.55
+KNN,11.89,0.84,17.83,0.58
+Linear Regression,13.49,1.01,19.42,0.5
