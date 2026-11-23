@@ -1,0 +1,20 @@
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Jupyter auto-saves
+.ipynb_checkpoints/
+
+# Virtual environments (if anyone creates one)
+venv/
+.venv/
+
+# Mac / Windows system files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+
+# Streamlit secrets (passwords, keys)
+.streamlit/secrets.toml

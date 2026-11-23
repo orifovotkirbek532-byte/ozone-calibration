@@ -1,0 +1,19 @@
+# Data handling
+pandas
+numpy
+scipy
+
+# Visualisation
+matplotlib
+seaborn
+
+# Machine learning
+scikit-learn
+xgboost
+
+# Notebook
+jupyter
+ipykernel
+
+# Web app
+streamlit
